@@ -32,4 +32,3 @@ window.byeSpeaker=byeSpeaker;
 
 })(window);
 
-SpeakGoodBye.js
